@@ -1,0 +1,13 @@
+.app-title{
+    font-size: large;
+}
+
+.content{
+    width:60%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 600;
+    color: red;
+}
